@@ -23,6 +23,7 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>  
 </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleynaselek&show_icons=true&locale=en&layout=compact" alt="aleynaselek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleynaselek&show_icons=true&locale=en" alt="aleynaselek" /></p>
